@@ -119,11 +119,10 @@ The cleaning process improved data consistency, handled missing information, rem
 ##  Project Files
 
 ```text
-Task3_Data_Cleaning/
+Task 3-Data Cleaning/
 │
-├── Task3_DataCleaning.ipynb
-├── Titanic.csv
-├── cleaned_titanic.csv
+├── Data Cleaning.ipynb
+├── tested.csv
 └── README.md
 ```
 
