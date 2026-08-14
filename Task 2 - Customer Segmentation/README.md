@@ -173,8 +173,8 @@ The segmentation enables businesses to move from a **one-size-fits-all marketing
 text
 Customer-Segmentation-Analysis/
 │
-├── Customer_Segmentation_Analysis.ipynb
-├── Online_Retail.xlsx
+├── Customer Segmentation.ipynb
+├── online_retail.csv.zip
 └── README.md
 
 ##  Conclusion
