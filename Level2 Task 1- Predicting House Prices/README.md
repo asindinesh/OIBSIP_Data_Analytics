@@ -187,7 +187,7 @@ Through this project, I gained practical experience in:
 ```text
 Level2 Task 1 - Predicting House Prices/
 │
-├── House Price Prediction.ipynb
+├── Predicting House Prices.ipynb
 ├── train.csv
 └── README.md
 ```
