@@ -32,4 +32,4 @@ Retail Sales Dataset
 This project analyzes retail sales data to understand customer behavior, identify sales patterns, and provide actionable business recommendations.
 
 ## Author
-Asin Dinesh
+Asin D
